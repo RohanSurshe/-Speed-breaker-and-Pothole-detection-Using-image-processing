@@ -1,0 +1,5 @@
+train : sample data/train/images
+val : sample data/validation/images
+
+nc : 2
+names :['Pothole','Speed Breaker']
